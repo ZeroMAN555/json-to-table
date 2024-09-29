@@ -19,7 +19,7 @@ git clone https://github.com/ZeroMAN555/json-to-table.git
 cd json-to-table
 pip install -r requirements.txt
 ```
-## Usage 
+## Penggunaan 
 
 ```bash
 python3 hasil.py <path_ke_file_json> -o <path_ke_file_output (opsional)> [--full (opsional)]

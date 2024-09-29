@@ -13,4 +13,12 @@
 Sebelum menggunakan alat ini, pastikan Anda telah menginstal Python 3 dan pip di sistem Anda. Untuk menginstal dependensi yang diperlukan, jalankan perintah berikut:
 
 ```bash
+git clone https://github.com/ZeroMAN555/json-to-table.git
+cd json-to-table
 pip install -r requirements.txt
+```
+## Usage 
+
+```bash
+python3 hasil.py <path_ke_file_json> -o <path_ke_file_output (opsional)> [--full (opsional)]
+```

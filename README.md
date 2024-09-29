@@ -5,7 +5,7 @@
 **json-to-table** adalah alat yang digunakan untuk mengubah hasil dari **ffuf** (Fuzz Faster U Fool) dalam format JSON menjadi tabel yang mudah dibaca. Alat ini memungkinkan pengguna untuk melihat hasil pencarian dengan cepat dan efisien, serta menampilkan detail lengkap dari setiap URL berdasarkan permintaan.
 
 ## Install ffuf 
-DISINI [GitHub](https://github.com/ffuf/ffuf).
+[DISINI](https://github.com/ffuf/ffuf).
 
 
 ## Kegunaan

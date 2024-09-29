@@ -22,3 +22,6 @@ pip install -r requirements.txt
 ```bash
 python3 hasil.py <path_ke_file_json> -o <path_ke_file_output (opsional)> [--full (opsional)]
 ```
+
+![ss](images/screenshot.png)
+

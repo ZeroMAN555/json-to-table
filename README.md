@@ -1,5 +1,7 @@
 # json-to-table
 
+![ss](images/screenshot.png)
+
 **json-to-table** adalah alat yang digunakan untuk mengubah hasil dari **ffuf** (Fuzz Faster U Fool) dalam format JSON menjadi tabel yang mudah dibaca. Alat ini memungkinkan pengguna untuk melihat hasil pencarian dengan cepat dan efisien, serta menampilkan detail lengkap dari setiap URL berdasarkan permintaan.
 
 ## Kegunaan
@@ -22,6 +24,4 @@ pip install -r requirements.txt
 ```bash
 python3 hasil.py <path_ke_file_json> -o <path_ke_file_output (opsional)> [--full (opsional)]
 ```
-
-![ss](images/screenshot.png)
 

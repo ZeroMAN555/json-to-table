@@ -1,4 +1,5 @@
 # json-to-table
+convert the ffuf json results into a table
 
 ![ss](images/screenshot.png)
 
